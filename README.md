@@ -1,1 +1,1 @@
-# INF6422---Advanced-concepts-in-cybersecurity
+# INF6422-Advanced-concepts-in-cybersecurity
